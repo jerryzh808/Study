@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="Img">
+    <file>GST_Logo.png</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>icon/windowsicon.ico</file>
+  </qresource>
+</RCC>

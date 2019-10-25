@@ -1,0 +1,8 @@
+QMainWindow{background:#F0FFF0;}
+QLineEdit{border-radius:4px;background:#FFFFFF;border:1px solid #B3D9D9;}
+QPushButton{background:#ECECFF;border-radius:4px;}
+QPushButton:hover{background:#FF9797;}
+QTableView{background:#FFFFFF;selection-background-color:#FF5151;border-color: rgb(0, 170, 127);gridline-color: gray;}
+QMenuBar{background:#FBFBFF;}
+QMenu{background:#FFDAC8;}
+QMenu:item:selected{background:#272727;}

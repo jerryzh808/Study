@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4275a53-8b06-4d1b-99f6-65db9eef60eb" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PyQt$IT.coverage" NAME="IT Coverage Results" MODIFIED="1527064297337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQt$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1547304635698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/PyQt$involution.coverage" NAME="involution Coverage Results" MODIFIED="1548309082990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQt$test.coverage" NAME="test Coverage Results" MODIFIED="1542179750957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQt$fuction.coverage" NAME="fuction Coverage Results" MODIFIED="1547016961715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQt$fix_add.coverage" NAME="fix_add Coverage Results" MODIFIED="1531299617557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQt$Ui_logon.coverage" NAME="Ui_logon Coverage Results" MODIFIED="1527496232011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQt$Ui_M_S_Dialog.coverage" NAME="Ui_M_S_Dialog Coverage Results" MODIFIED="1528355482096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQt$Ui_IT.coverage" NAME="Ui_IT Coverage Results" MODIFIED="1527065909241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQt$time.coverage" NAME="time Coverage Results" MODIFIED="1546311281513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/PyQt$Ui_fuctionOP.coverage" NAME="Ui_fuctionOP Coverage Results" MODIFIED="1527496282710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQt$Main.coverage" NAME="Main Coverage Results" MODIFIED="1539333778471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQt$fixasset.coverage" NAME="fixasset Coverage Results" MODIFIED="1547304492834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQt$Ui_fixasset_modify.coverage" NAME="Ui_fixasset_modify Coverage Results" MODIFIED="1547083607435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQt$Ui_fixasset.coverage" NAME="Ui_fixasset Coverage Results" MODIFIED="1527643350327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQt$Main_pyw.coverage" NAME="Main.pyw Coverage Results" MODIFIED="1548137389592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fuction.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-17">
+              <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fixasset.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ui_fixasset.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/involution.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fixasset_qss.qss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scrap.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/supply.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/device.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/purchase.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Qt</find>
+      <find>colum</find>
+      <find>icon</find>
+      <find>FuctionOP</find>
+      <find>FixAssetWin</find>
+      <find>AddDataWin</find>
+      <find>ModifyDataWin</find>
+      <find>logon</find>
+      <find>PurchaseWin</find>
+      <find>ScrapWin</find>
+      <find>SuppliesWin</find>
+      <find>Fuction</find>
+      <find>fuction</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/IT.py" />
+        <option value="$PROJECT_DIR$/Ui_IT.py" />
+        <option value="$PROJECT_DIR$/Ui_fuctionOP.py" />
+        <option value="$PROJECT_DIR$/Main.py" />
+        <option value="$PROJECT_DIR$/fixaddData.py" />
+        <option value="$PROJECT_DIR$/fuctionOP.py" />
+        <option value="$PROJECT_DIR$/Ui_fixaddData.py" />
+        <option value="$PROJECT_DIR$/Ui_M_S_Dialog.py" />
+        <option value="$PROJECT_DIR$/M_S.py" />
+        <option value="$PROJECT_DIR$/Ui_fuctionwin.py" />
+        <option value="$PROJECT_DIR$/Ui_devicewin.py" />
+        <option value="$PROJECT_DIR$/Ui_fix_modify.py" />
+        <option value="$PROJECT_DIR$/Ui_fixassetwin.py" />
+        <option value="$PROJECT_DIR$/Ui_purchasewin.py" />
+        <option value="$PROJECT_DIR$/Ui_scrapwin.py" />
+        <option value="$PROJECT_DIR$/Ui_supplieswin.py" />
+        <option value="$PROJECT_DIR$/Ui_logonwin.py" />
+        <option value="$PROJECT_DIR$/Ui_fix_add.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/../time.py" />
+        <option value="$PROJECT_DIR$/fix_modify.py" />
+        <option value="$PROJECT_DIR$/fix_add.py" />
+        <option value="$PROJECT_DIR$/Main.pyw" />
+        <option value="$PROJECT_DIR$/Ui_device.py" />
+        <option value="$PROJECT_DIR$/Ui_fixasset_modify.py" />
+        <option value="$PROJECT_DIR$/Ui_logon.py" />
+        <option value="$PROJECT_DIR$/Ui_purchase.py" />
+        <option value="$PROJECT_DIR$/Ui_scrap.py" />
+        <option value="$PROJECT_DIR$/Ui_supplies.py" />
+        <option value="$PROJECT_DIR$/Ui_fuction.py" />
+        <option value="$PROJECT_DIR$/purchase.py" />
+        <option value="$PROJECT_DIR$/device.py" />
+        <option value="$PROJECT_DIR$/supply.py" />
+        <option value="$PROJECT_DIR$/scrap.py" />
+        <option value="$PROJECT_DIR$/logon.py" />
+        <option value="$PROJECT_DIR$/fuction.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/ee6f31d4-36bf-4ef2-8bb5-5f9ffb3f6bc4/console.sql" />
+        <option value="$PROJECT_DIR$/fisasset_qss.qss" />
+        <option value="$PROJECT_DIR$/../test (2).py" />
+        <option value="$PROJECT_DIR$/fixasset_qss.qss" />
+        <option value="$PROJECT_DIR$/Ui_fixasset_add.py" />
+        <option value="$PROJECT_DIR$/fixasset.py" />
+        <option value="$PROJECT_DIR$/Ui_fixasset.py" />
+        <option value="$PROJECT_DIR$/involution.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="6" />
+    <option name="y" value="29" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="PyQt" type="cbb8eebc:String" user="PyQt" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.VCS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zhangje\Desktop\PyQt" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.involution">
+    <configuration name="Main.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyQt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.pyw" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ui_fixasset_modify" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyQt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ui_fixasset_modify.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fixasset" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyQt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fixasset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="involution" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyQt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/involution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyQt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../test (2).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Main.pyw" />
+      <item itemvalue="Python.Ui_fixasset_modify" />
+      <item itemvalue="Python.fixasset" />
+      <item itemvalue="Python.involution" />
+      <item itemvalue="Python.test (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.involution" />
+        <item itemvalue="Python.Main.pyw" />
+        <item itemvalue="Python.test (2)" />
+        <item itemvalue="Python.fixasset" />
+        <item itemvalue="Python.Ui_fixasset_modify" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4275a53-8b06-4d1b-99f6-65db9eef60eb" name="Default" comment="" />
+      <created>1527062633050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527062633050</updated>
+      <workItem from="1542695518771" duration="166000" />
+      <workItem from="1542867435268" duration="36000" />
+      <workItem from="1542867521296" duration="428000" />
+      <workItem from="1542867987594" duration="239000" />
+      <workItem from="1543393520855" duration="248000" />
+      <workItem from="1543393819485" duration="207000" />
+      <workItem from="1543823437856" duration="78000" />
+      <workItem from="1544684979413" duration="843000" />
+      <workItem from="1544686110263" duration="605000" />
+      <workItem from="1545704171114" duration="38000" />
+      <workItem from="1545704282312" duration="590000" />
+      <workItem from="1546266907329" duration="5407000" />
+      <workItem from="1546311067016" duration="366000" />
+      <workItem from="1546344862419" duration="997000" />
+      <workItem from="1546393255963" duration="1228000" />
+      <workItem from="1546496540147" duration="46000" />
+      <workItem from="1546671195843" duration="397000" />
+      <workItem from="1546671623038" duration="1123000" />
+      <workItem from="1546825240164" duration="593000" />
+      <workItem from="1546865223250" duration="594000" />
+      <workItem from="1546907534995" duration="1204000" />
+      <workItem from="1546949676073" duration="163000" />
+      <workItem from="1547001673044" duration="191000" />
+      <workItem from="1547002044819" duration="18296000" />
+      <workItem from="1547037492983" duration="5786000" />
+      <workItem from="1547080858273" duration="21121000" />
+      <workItem from="1547121891128" duration="10696000" />
+      <workItem from="1547167660893" duration="5069000" />
+      <workItem from="1547172831711" duration="1479000" />
+      <workItem from="1547174358137" duration="5090000" />
+      <workItem from="1547184926625" duration="16000" />
+      <workItem from="1547185013779" duration="5756000" />
+      <workItem from="1547302842836" duration="309000" />
+      <workItem from="1547303180995" duration="47000" />
+      <workItem from="1547303257544" duration="340000" />
+      <workItem from="1547303829890" duration="542000" />
+      <workItem from="1547304401216" duration="134000" />
+      <workItem from="1547304588398" duration="93000" />
+      <workItem from="1547432816600" duration="594000" />
+      <workItem from="1547557354028" duration="36000" />
+      <workItem from="1547557454771" duration="11000" />
+      <workItem from="1547557997600" duration="1266000" />
+      <workItem from="1547610587832" duration="596000" />
+      <workItem from="1547714596934" duration="1037000" />
+      <workItem from="1547819848104" duration="58000" />
+      <workItem from="1547886666283" duration="607000" />
+      <workItem from="1548051521365" duration="604000" />
+      <workItem from="1548136763588" duration="1762000" />
+      <workItem from="1548138562377" duration="2296000" />
+      <workItem from="1548146277747" duration="1141000" />
+      <workItem from="1548308345567" duration="1348000" />
+      <workItem from="1548831930397" duration="594000" />
+      <workItem from="1548981576909" duration="56000" />
+      <workItem from="1548981697470" duration="647000" />
+      <workItem from="1548983644224" duration="141000" />
+      <workItem from="1548983944378" duration="170000" />
+      <workItem from="1549855187670" duration="222000" />
+      <workItem from="1549855509873" duration="411000" />
+      <workItem from="1550466857647" duration="360000" />
+      <workItem from="1550557477454" duration="8000" />
+      <workItem from="1551166067312" duration="19000" />
+      <workItem from="1552626770602" duration="169000" />
+      <workItem from="1552627621852" duration="91000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="104805000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16807166" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" x="0" y="275" width="1366" height="178" id="Run" order="2" sideWeight="0.49926794" type="WINDOWED" weight="0.36349207" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.48608837" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" x="0" y="23" width="1366" height="715" id="运行" order="7" type="WINDOWED" weight="0.32961783" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" show_stripe_button="false" sideWeight="0.50073206" side_tool="true" weight="0.32569557" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.3289689" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.32733223" />
+      <window_info anchor="bottom" id="调试" order="15" weight="0.32961783" />
+      <window_info anchor="bottom" id="找到" order="16" weight="0.32961783" />
+      <window_info anchor="bottom" id="Database Console" order="17" weight="0.63338786" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32980332" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19213313" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" x="248" y="205" width="891" height="254" id="Run" order="2" sideWeight="0.49926794" type="WINDOWED" weight="0.36349207" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4885246" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" x="0" y="23" width="1366" height="715" id="运行" order="7" type="WINDOWED" weight="0.32961783" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50073206" side_tool="true" weight="0.32569557" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.3289689" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.32857144" />
+      <window_info anchor="bottom" id="调试" order="15" weight="0.32961783" />
+      <window_info anchor="bottom" id="找到" order="16" weight="0.32961783" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ui_fuction.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Ui_fuctionOP.py" />
+    <entry file="file://$PROJECT_DIR$/Ui_Ui_fixasset.py" />
+    <entry file="file://$PROJECT_DIR$/Main.py" />
+    <entry file="file://$PROJECT_DIR$/fuctionOP.py" />
+    <entry file="file://$PROJECT_DIR$/Ui_fixaddData.py" />
+    <entry file="file://$PROJECT_DIR$/fixaddData.py" />
+    <entry file="file://$PROJECT_DIR$/Ui_M_S_Dialog.py" />
+    <entry file="file://$PROJECT_DIR$/M_S.py" />
+    <entry file="file://$PROJECT_DIR$/apprcc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-35746" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ui_fixassetwin.py" />
+    <entry file="file://$PROJECT_DIR$/Ui_fuctionwin.py" />
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ui_purchasewin.py" />
+    <entry file="file://$PROJECT_DIR$/Ui_scrapwin.py" />
+    <entry file="file://$PROJECT_DIR$/Ui_supplieswin.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ui_logonwin.py" />
+    <entry file="file://$PROJECT_DIR$/../time.py" />
+    <entry file="file://$PROJECT_DIR$/Ui_fix_modify.py" />
+    <entry file="file://$PROJECT_DIR$/Ui_devicewin.py" />
+    <entry file="file://$PROJECT_DIR$/Ui_fix_add.py" />
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/logonwin.py" />
+    <entry file="file://$PROJECT_DIR$/fix_add.py" />
+    <entry file="file://$PROJECT_DIR$/fix_modify.py" />
+    <entry file="file://$PROJECT_DIR$/logon_logo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-38217" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GST_Logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ui_fixasset_modify.py" />
+    <entry file="file://$PROJECT_DIR$/apprcc_rc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-679143" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ui_purchase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ui_scrap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ui_supplies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.pyw">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" selection-start-line="11" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/ee6f31d4-36bf-4ef2-8bb5-5f9ffb3f6bc4/console.sql" />
+    <entry file="file://$PROJECT_DIR$/Ui_device.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fisasset_qss.qss" />
+    <entry file="file://$PROJECT_DIR$/../test (2).py" />
+    <entry file="file://$PROJECT_DIR$/Ui_fuction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ui_fixasset_add.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ui_logon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="126" column="52" selection-start-line="126" selection-start-column="52" selection-end-line="126" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/PyQt5/QtWidgets.pyd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/supply.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/device.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/purchase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixasset_qss.qss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/involution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ui_fixasset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fuction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixasset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
